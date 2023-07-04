@@ -1,0 +1,1 @@
+{"virtualbox":{"/ansible":{"guestpath":"/ansible","hostpath":"C:/Users/leand/Documents/Vagrant/ansible-zabbix-agent/ansible","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/leand/Documents/Vagrant/ansible-zabbix-agent","disabled":false,"__vagrantfile":true}}}
