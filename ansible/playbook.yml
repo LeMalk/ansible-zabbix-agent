@@ -1,0 +1,6 @@
+---
+   - name: Provision Zabbix Agent
+     hosts: all
+     become: true
+     roles:
+       - zabbix-agent
